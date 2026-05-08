@@ -27,7 +27,8 @@ Currently exploring:
 
 # 🛠️ Technologies & Tools
 
-## Languages
+## 💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -38,87 +39,65 @@ Currently exploring:
 
 ---
 
-## Web & Backend
+## 🌐 Web & Backend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
 
 ---
 
-## Databases
+## 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## AI & Machine Learning
+## 🤖 AI & Machine Learning
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![AUC Research](https://img.shields.io/badge/AUC-ML%20Research-blue?style=for-the-badge)
 
 ---
 
-## Hardware & Systems
+## ⚙️ Hardware & Systems
+
 ![VHDL](https://img.shields.io/badge/VHDL-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge)
+![Giza Systems](https://img.shields.io/badge/Giza%20Systems-DevOps-red?style=for-the-badge)
 
 ---
 
-# 📌 Featured Projects
+## 🧰 Developer Tools
 
-## 🧠 Distributed LLM Inference System
-- Built a scalable distributed AI inference system handling high concurrency
-- Implemented load balancing and fault tolerance
-- Integrated Retrieval-Augmented Generation (RAG)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+# 🚀 Key Projects
 
----
-
-## 🌐 Reddit Clone
-- Full-stack social platform with authentication and communities
-- Built REST APIs and dynamic frontend components
-- Integrated AI-based post summarization
-
----
-
-## ⚙️ MIPS Processor Design
-- Designed and implemented a pipelined MIPS processor using VHDL
-- Built simulations and validated instruction execution
-
----
-
-## 📡 Custom IoT Telemetry Protocol
-- Developed lightweight client-server communication protocol over UDP
-- Implemented packet tracking, loss handling, and latency analysis
-
----
-
-## 🤖 Item Price Prediction
-🏆 Ranked 4th / 37 teams in Kaggle competition
-
-- Applied ML models including:
-  - SVR
-  - Random Forest
-  - Gradient Boosting
-
----
-
-# 📈 Currently Learning
-
-- Advanced Backend Development
-- Distributed Systems
-- AI Infrastructure
-- Hardware Verification
-- Cloud & DevOps
-
----
+| 🎁 Projects | 🛠️ Tech Stack | 📌 Highlights |
+|---|---|---|
+| **Distributed LLM Inference System** | Python, AI, Distributed Systems | Built scalable high-concurrency inference system with load balancing and RAG integration |
+| **Reddit Clone** | React, Node.js, MongoDB | Full-stack social platform with authentication, communities, and AI summarization |
+| **MIPS Processor** | VHDL, Assembly | Designed and implemented a pipelined 32-bit MIPS processor |
+| **Custom IoT Telemetry Protocol** | Python, UDP Sockets | Developed lightweight telemetry protocol with packet tracking and latency analysis |
+| **Operating Systems Kernel Development** | C, x86 Assembly | Implemented memory management, page fault handling, and virtual memory algorithms |
+| **Item Price Prediction** | Python, Machine Learning | Ranked 4th / 37 teams in Kaggle competition using ML models |
 
 # 📫 Connect With Me
 
-📧 Email: logine2005@gmail.com
 
-🔗 LinkedIn:
-www.linkedin.com/in/logine-omar
 
-💻 GitHub:
-github.com/logineomar
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logine2005@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logine-omar)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/logineomar)
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
